@@ -16,3 +16,9 @@ We have incidents data (CSV) extracted into 2 files, first file is for training 
 Using this data, we would like to predict priority class for new upcoming incidents based on data related to this incident. Attach the results of prediction."
 
 
+'train.csv' contains the features along with assigned priority. 
+'test.csv' contains cases to which priority has to be assigned.
+'Shaikh_Rafe_Prediciton.ipynb' contains code for EDA and prediction.
+'Shaikh_Rafe_Submission.csv' contains predicted/assigned priorities to cases given in test.csv.
+
+
