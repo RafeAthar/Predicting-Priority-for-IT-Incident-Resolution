@@ -20,8 +20,10 @@ We have incidents data (CSV) extracted into 2 files, first file is for training 
 Using this data, we would like to predict priority class for new upcoming incidents based on data related to this incident. Attach the results of prediction."
 
 <br/>
+
 Following files exist in this repository.
-<br/>
+
+
 'train.csv' contains the features along with assigned priority. 
 
 'test.csv' contains cases to which priority has to be assigned.
